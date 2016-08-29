@@ -23,7 +23,10 @@ var res = {
   fire_particl4: "res/effect/fire4_particle.plist",
   fire_particl5: "res/effect/fire5_particle.plist",
   flame_particl1: "res/effect/flame1_particle.plist",
-  flame_particl2: "res/effect/flame2_particle.plist"
+  flame_particl2: "res/effect/flame2_particle.plist",
+  darkness_particl1: "res/effect/darkness1_particle.plist",
+  darkness_particl2: "res/effect/darkness2_particle.plist",
+  darkness_particl3: "res/effect/darkness3_particle.plist"
 
 };
 
